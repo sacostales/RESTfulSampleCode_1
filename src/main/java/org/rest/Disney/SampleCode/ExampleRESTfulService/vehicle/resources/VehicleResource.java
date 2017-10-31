@@ -1,4 +1,4 @@
-package org.rest.mitchell.vehicle.resources;
+package org.rest.Disney.SampleCode.ExampleRESTfulService.vehicle.resources;
 
 import java.util.List;
 
@@ -13,9 +13,9 @@ import javax.ws.rs.PathParam;
 import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 
-import org.rest.mitchell.vehicle.model.Vehicle;
-import org.rest.mitchell.vehicle.resources.beans.VehicleFilterBean;
-import org.rest.mitchell.vehicle.service.VehicleService;
+import org.rest.Disney.SampleCode.ExampleRESTfulService.vehicle.model.Vehicle;
+import org.rest.Disney.SampleCode.ExampleRESTfulService.vehicle.resources.beans.VehicleFilterBean;
+import org.rest.Disney.SampleCode.ExampleRESTfulService.vehicle.service.VehicleService;
 
 @Path("/vehicles")
 @Consumes(MediaType.APPLICATION_JSON)

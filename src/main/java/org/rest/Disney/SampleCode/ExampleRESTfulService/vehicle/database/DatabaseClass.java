@@ -1,9 +1,9 @@
-package org.rest.mitchell.vehicle.database;
+package org.rest.Disney.SampleCode.ExampleRESTfulService.vehicle.database;
 
 import java.util.HashMap;
 import java.util.Map;
 
-import org.rest.mitchell.vehicle.model.Vehicle;
+import org.rest.Disney.SampleCode.ExampleRESTfulService.model.Vehicle;
 
 public class DatabaseClass {
 

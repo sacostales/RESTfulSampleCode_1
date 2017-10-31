@@ -1,4 +1,4 @@
-package org.rest.mitchell.vehicle.model;
+package org.rest.Disney.SampleCode.ExampleRESTfulService.vehicle.model;
 
 import javax.xml.bind.annotation.XmlRootElement;
 

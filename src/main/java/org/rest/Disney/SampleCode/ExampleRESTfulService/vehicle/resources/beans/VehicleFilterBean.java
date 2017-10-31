@@ -1,4 +1,4 @@
-package org.rest.mitchell.vehicle.resources.beans;
+package org.rest.Disney.SampleCode.ExampleRESTfulService.vehicle.resources.beans;
 
 import javax.ws.rs.QueryParam;
 

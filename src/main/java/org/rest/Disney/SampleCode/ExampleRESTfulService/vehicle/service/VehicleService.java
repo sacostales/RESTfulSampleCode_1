@@ -1,11 +1,11 @@
-package org.rest.mitchell.vehicle.service;
+package org.rest.Disney.SampleCode.ExampleRESTfulService.vehicle.service;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
-import org.rest.mitchell.vehicle.database.DatabaseClass;
-import org.rest.mitchell.vehicle.model.Vehicle;
+import org.rest.Disney.SampleCode.ExampleRESTfulService.vehicle.database.DatabaseClass;
+import org.rest.Disney.SampleCode.ExampleRESTfulService.vehicle.model.Vehicle;
 
 //Service class listed all the services used by resource Vehicle
 public class VehicleService {
